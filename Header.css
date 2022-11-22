@@ -1,0 +1,39 @@
+.header  {
+    padding: 10px;
+    margin-top: 1;
+    text-align: left;
+    background-color:#EDCDBB;
+    color: rgb(46, 65, 78);
+    /* position:fixed; */
+    /* left: 0; */
+    /* top: 0;
+    width: 100%; */
+}
+.header ul li {
+     text-align:center; 
+    display: inline-block;
+    padding: 20px;
+    background-color:#CEAB93;
+    color: black;
+    
+}
+ .header ul h3 {
+      text-align:center ; 
+     display: inline-block;
+     padding: 15px;
+     background-color:#CEAB93;
+     color: black;
+} 
+
+.header ul{
+    text-align: center;
+    /* background-color:cadetblue; */
+    color: black;
+}
+ .header{
+    text-align: left;
+    background-color:#CEAB93;
+    color: black;
+}
+
+
